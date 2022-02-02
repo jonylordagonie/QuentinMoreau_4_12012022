@@ -43,11 +43,6 @@ a:hover {
     padding-right: 0;
 }
 
-.spaced-link{
-    display: block;
-    width: 100%;
-    padding: 5px;
-}
 .bloc-lg {
     padding: 100px 50px;
 }
@@ -834,6 +829,11 @@ blockquote{
 
 .bg-presentation {
     background-image: url("img/image-de-presentation.bmp");
+}
+.spaced-link{
+    display: block;
+    width: 100%;
+    padding: 5px;
 }
 
 @media (max-width: 1024px) {
