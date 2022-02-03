@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://jonylordagonie.github.io/QuentinMoreau_4_12012022/sitemap.xml
